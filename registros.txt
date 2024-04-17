@@ -1,0 +1,14 @@
+Nombre = Erick Valverde
+Cedula = 2-04168790
+Telefono= 24339574
+Correo Electronico = evalverde98@gmail.com
+Direccion= San Jose, Zapote 
+Datos de Mascota Nombre = Zeus 
+T mascota 1= Perro
+Raza = Doberman
+Fecha de Nacimiento = 6/5/2022
+Sexo = Macho
+Peso = 1.0 Kilos 
+Caracteristicas = Su color es negro con cafe
+Alimento = Balance Cachorro
+Observaciones = No tiene ninguna vacuna
